@@ -277,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rohit Ramteke**
 - Email: ramteker284@gmail.com
-- GitHub: [@rohit-ramteke](https://github.com/rohit-ramteke)
+- GitHub: [@rohitramteke1](https://github.com/rohitramteke1)
 
 ## 🆘 Support
 
