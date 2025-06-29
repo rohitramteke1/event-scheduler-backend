@@ -29,6 +29,7 @@ For detailed documentation, please refer to the following guides:
 - Python 3.8+
 - pip (Python package installer)
 - SMTP email service (Brevo recommended)
+- Project built with `python 3.12.3`
 
 ## 🛠️ Installation & Setup
 
