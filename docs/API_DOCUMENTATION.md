@@ -368,5 +368,5 @@ Supported recurrence patterns:
 ## Support
 
 For API support and questions:
-- Email: rramteke8201@gmail.com
+- Email: ramteker284@gmail.com
 - Create an issue in the repository 
